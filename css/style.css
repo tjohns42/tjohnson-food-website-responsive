@@ -46,12 +46,15 @@ footer{
 		background-color: #222;
 		border: 2px solid #222;
 		border-radius: 0 0 15px 15px;
-		height: 35px;
 }
 
 footer div{
 		font-size: 11px;
 		padding: 12px 15px;
+}
+
+footer div.clear{
+	padding: 0;
 }
 
 footer .right a{
@@ -147,6 +150,7 @@ header nav ul li .curpage{
 	
 	header nav ul li a {
 		padding: 8px;
+	}
 }
 
 html{
@@ -332,9 +336,9 @@ p{
 
 @media only screen and (max-width: 768px) {
 		#home .content #links .listing{
-			margin: 0 auto;
+			margin: 0 10% 20px 10%;
 			max-width: 175px;
-			width: 80%;
+			width: 79%;
 		}
 }
 
