@@ -38,7 +38,6 @@ body{
 .container{
 		margin: 0 auto;
 		padding: 35px 0;
-		width: 960px;
 }
 
 footer{
@@ -47,7 +46,6 @@ footer{
 		border: 2px solid #222;
 		border-radius: 0 0 15px 15px;
 		height: 35px;
-		width: 960px;
 }
 
 footer div{
@@ -88,7 +86,7 @@ header #logo h1{
 		color: #0085b7;
 		font-size: 38px;
 		line-height: 38px;
-		margin: 0 0 -42px 0;
+		margin-top: -34px;
 		padding: 0 0 0 20px;
 }
 
@@ -107,7 +105,6 @@ header nav{
 		background-color: #222;
 		border: 2px solid #222;
 		border-radius: 15px 15px 0 0;
-		width: 960px;
 }
 
 header nav ul{
@@ -153,7 +150,6 @@ iframe{
 		border: 2px solid #222;
 		border-top: none;
 		min-height: 400px;
-		width: 960px;
 }
 
 p{
@@ -200,7 +196,6 @@ p{
 #contact .content{
 		margin: 0 auto;
 		padding: 25px 0 25px 0;
-		width: 670px;
 }
 
 #contact .content form input{
@@ -214,7 +209,7 @@ p{
 		outline: none;
 		padding: 0 0 0 10px;
 		margin: 0 0 20px 0;
-		width: 670px;
+		width: 100%;
 }
 
 #contact .content form input:focus{
@@ -266,7 +261,7 @@ p{
 		outline: none;
 		padding: 10px 0 0 10px;
 		margin: 0 0 20px 0;
-		width: 670px;
+		width: 100%;
 }
 
 #contact .content form textarea:focus{
@@ -307,7 +302,6 @@ p{
 #home .content{
 		float: left;
 		padding: 0 15px;
-		width: 629px;
 }
 
 #home .content #links{
@@ -320,7 +314,6 @@ p{
 		border-radius: 10px;
 		float: left;
 		margin: 0 16px;
-		width: 175px;
 }
 
 #home .content #links .listing a h2{
@@ -346,14 +339,12 @@ p{
 		border-left: 1px solid #444;
 		float: right;
 		padding: 10px 0 0 0;
-		width: 300px;
 }
 
 #home .sidebar aside .featured{
 		background-color: #222;
 		height: 100px;
 		margin: 0 0 35px 0;
-		width: 300px;
 }
 
 #home .sidebar aside .featured a{
@@ -361,7 +352,6 @@ p{
 		display: inline-block;
 		height: 100px;
 		text-align: center;
-		width: 300px;
 }
 
 #home .sidebar aside .featured a h3{
@@ -431,7 +421,6 @@ p{
 		float: left;
 		height: 100%;
 		padding: 10px;
-		width: 200px;
 }
 
 #restaurants aside h2{
@@ -468,7 +457,6 @@ p{
 		border-left: 1px solid #222;
 		float: right;
 		padding: 10px 0;
-		width: 720px;
 }
 
 #restaurants .content h1{
@@ -507,7 +495,6 @@ p{
 .restaurant_page aside{
 		float: left;
 		padding: 20px 10px;
-		width: 300px;
 }
 
 .restaurant_page aside a{
@@ -530,14 +517,12 @@ p{
 .restaurant_page .content{
 		float: right;
 		padding: 20px 10px;
-		width: 600px;
 }
 
 .restaurant_page .content .review_box{
 		border: 2px solid #222;
 		border-radius: 10px;
 		margin: 40px 20px 20px 10px;
-		width: 550px;
 }
 
 .restaurant_page .content .review_box .add_review_box{

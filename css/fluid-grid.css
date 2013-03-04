@@ -35,10 +35,24 @@ img, object, embed, video {
 	padding-left: 1.3043%;
 	padding-right: 1.3043%;
 }
-#LayoutDiv1 {
+#header {
 	clear: both;
 	float: left;
 	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#logo {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv1 {
+	clear: none;
+	float: left;
+	margin-left: 2.6785%;
 	width: 100%;
 	display: block;
 }
@@ -51,10 +65,24 @@ img, object, embed, video {
 	padding-left: 0.7581%;
 	padding-right: 0.7581%;
 }
-#LayoutDiv1 {
+#header {
 	clear: both;
 	float: left;
 	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#logo {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#LayoutDiv1 {
+	clear: none;
+	float: left;
+	margin-left: 1.6574%;
 	width: 100%;
 	display: block;
 }
@@ -70,11 +98,25 @@ img, object, embed, video {
 	padding-right: 0.4891%;
 	margin: auto;
 }
-#LayoutDiv1 {
+#header {
 	clear: both;
 	float: left;
 	margin-left: 0;
 	width: 100%;
+	display: block;
+}
+#logo {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 24.1758%;
+	display: block;
+}
+#LayoutDiv1 {
+	clear: none;
+	float: left;
+	margin-left: 1.0989%;
+	width: 74.7252%;
 	display: block;
 }
 }
