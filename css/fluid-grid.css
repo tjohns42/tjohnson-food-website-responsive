@@ -84,6 +84,20 @@ img, object, embed, video {
 	width: 100%;
 	display: block;
 }
+#footer {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#flexslider {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
 
 /* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
 
@@ -136,6 +150,20 @@ img, object, embed, video {
 	display: block;
 }
 #featured {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#footer {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#flexslider {
 	clear: both;
 	float: left;
 	margin-left: 0;
@@ -197,6 +225,20 @@ img, object, embed, video {
 	display: block;
 }
 #featured {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#footer {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#flexslider {
 	clear: both;
 	float: left;
 	margin-left: 0;
