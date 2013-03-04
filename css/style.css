@@ -140,6 +140,15 @@ header nav ul li .curpage{
 		color: #0085b7;
 }
 
+@media only screen and (max-width: 480px) {
+	header nav{
+		padding-top: 40px;
+	}
+	
+	header nav ul li a {
+		padding: 8px;
+}
+
 html{
 		height: 100%;
 }
@@ -321,7 +330,7 @@ p{
 		width: 28%;
 }
 
-@media only screen and (min-width: 481px) {
+@media only screen and (max-width: 768px) {
 		#home .content #links .listing{
 			margin: 0 auto;
 			max-width: 175px;
