@@ -33,6 +33,25 @@
         <div class="clear"></div>
     </nav>
   </header>
+  <div id="main" class="main">
+    <div class="flexslider">
+        <ul class="slides">
+            <li><a href=""><img src="images/1.jpg" height="350" width="960" alt=""></a></li>
+            <li><a href=""><img src="images/1.jpg" height="350" width="960" alt=""></a></li>
+            <li><a href=""><img src="images/1.jpg" height="350" width="960" alt=""></a></li>
+        </ul>
+    </div>
+    
+  </div>
 </div>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="js/jquery.flexslider.js"></script>
+<script>
+  $(window).load(function() {
+    $('.flexslider').flexslider({
+      animation: "slide"
+    });
+  });
+</script>
 </body>
 </html>

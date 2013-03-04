@@ -37,6 +37,7 @@ body{
 
 .container{
 		margin: 0 auto;
+		max-width: 960px !important;
 		padding: 35px 0;
 }
 
@@ -149,6 +150,7 @@ iframe{
 		background-color: #eee;
 		border: 2px solid #222;
 		border-top: none;
+		clear:both;
 		min-height: 400px;
 }
 
