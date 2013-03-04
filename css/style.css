@@ -315,7 +315,8 @@ p{
 		border: 1px solid #222;
 		border-radius: 10px;
 		float: left;
-		margin: 0 16px;
+		margin: 0 2%;
+		width: 29%;
 }
 
 #home .content #links .listing a h2{
@@ -335,6 +336,7 @@ p{
 
 #home .content #links .listing a img{
 		border-radius: 10px 10px 0 0;
+		width: 100%;
 }
 
 #home .sidebar{
