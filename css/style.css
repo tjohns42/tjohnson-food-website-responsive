@@ -316,7 +316,7 @@ p{
 		border-radius: 10px;
 		float: left;
 		margin: 0 2%;
-		width: 29%;
+		width: 28%;
 }
 
 #home .content #links .listing a h2{
@@ -391,12 +391,14 @@ p{
 #home .sidebar aside hr{
 		border: 1px solid #222;
 		margin: 25px auto;
+		height: 0px;
 		width: 80%;
 }
 
 #home .sidebar aside ol{
 		counter-reset: li;
 		list-style: decimal;
+		padding: 0;
 }
 
 #home .sidebar aside ol li:before{
